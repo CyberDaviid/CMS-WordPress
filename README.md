@@ -43,9 +43,9 @@ $ git clone https://github.com/CyberDaviid/CMS-WordPress.git
 
 - Untuk **server lokal**, akses:
   ```bash 
-  - http://localhost/CMS-WordPress
-  - http://domain_tkj.com
-  - http://10.20.30.1
+  $ http://localhost/CMS-WordPress
+  $ http://domain_tkj.com
+  $ http://10.20.30.1
 - Untuk **hosting web**, akses domain yang digunakan.  
 - Ikuti wizard instalasi, masukkan informasi situs, dan buat akun admin.  
 
