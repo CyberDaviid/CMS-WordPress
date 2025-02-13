@@ -95,6 +95,7 @@ Jika Anda memiliki pertanyaan atau memerlukan bantuan lebih lanjut, silakan hubu
 
 📧 **Email**: [davidzon.juansa16@smk.belajar.id](mailto:davidzon.juansa16@smk.belajar.id)  
 📱 **WhatsApp**: [+62 812-5594-4163](https://wa.me/6281255944163)  
-🐙 **GitHub**: [CyberDaviid](https://github.com/CyberDaviid)  
+🐙 **GitHub**: [CyberDaviid](https://github.com/CyberDaviid)
+
 
 ---
