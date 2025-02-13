@@ -27,7 +27,8 @@ $ apt install git -y
 $ git clone https://github.com/CyberDaviid/CMS-WordPress.git
 ```
 
-### 2️⃣ Konfigurasi Database  
+### 2️⃣ Konfigurasi Database
+```bash
 1. **Buat Database Baru** di MySQL/MariaDB.  
 2. **Edit file konfigurasi `wp-config.php`**, lalu sesuaikan dengan detail database:  
    ```php
