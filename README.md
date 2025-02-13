@@ -93,7 +93,7 @@ Proyek ini menggunakan lisensi **GPLv2 atau lebih baru**, sesuai dengan lisensi 
 ## 📞 Kontak & Dukungan
 Jika Anda memiliki pertanyaan atau memerlukan bantuan lebih lanjut, silakan hubungi:  
 
-📧 **Email**: [davidzon.juansa16@smk.belajar.id](mailto:davidzon.juansa16@smk.belajar.id)  
+📧 **Email**: [daviddzjs@gmail.com](mailto:daviddzjs@gmail.com)  
 📱 **WhatsApp**: [+62 812-5594-4163](https://wa.me/6281255944163)  
 🐙 **GitHub**: [CyberDaviid](https://github.com/CyberDaviid)
 
