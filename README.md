@@ -1,7 +1,3 @@
-Ada beberapa perbaikan kecil yang bisa dilakukan, seperti mengoreksi sintaksis kode, memperbaiki format Markdown, dan memperjelas beberapa bagian. Berikut adalah versi yang diperbaiki dan lebih rapi:  
-
----
-
 # 🚀 CMS WordPress  
 
 Selamat datang di repositori **CMS WordPress**! Repositori ini berisi file inti **WordPress**, salah satu **Content Management System (CMS)** paling populer yang digunakan untuk membangun berbagai jenis situs web, mulai dari blog pribadi hingga e-commerce dan website perusahaan.  
