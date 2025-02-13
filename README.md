@@ -26,9 +26,9 @@ Ikuti langkah-langkah berikut untuk menginstal WordPress di server lokal atau ho
 ### 1️⃣ Clone Repositori  
 Jalankan perintah berikut di terminal atau command prompt:  
 ```bash
-sudo apt update && sudo apt install git -y
-git clone https://github.com/CyberDaviid/CMS-WordPress.git
-cd CMS-WordPress
+$ sudo apt update && sudo apt install git -y
+% git clone
+$ git clone https://github.com/CyberDaviid/CMS-WordPress.git
 ```
 
 ### 2️⃣ Konfigurasi Database  
