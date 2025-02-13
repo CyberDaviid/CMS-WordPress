@@ -28,7 +28,7 @@ $ git clone https://github.com/CyberDaviid/CMS-WordPress.git
 ```
 
 ### 2️⃣ Konfigurasi Database
-```bash
+
 1. **Buat Database Baru** di MySQL/MariaDB.  
 2. **Edit file konfigurasi `wp-config.php`**, lalu sesuaikan dengan detail database:  
    ```php
@@ -40,9 +40,12 @@ $ git clone https://github.com/CyberDaviid/CMS-WordPress.git
 3. Simpan file **`wp-config.php`**.  
 
 ### 3️⃣ Jalankan Instalasi  
-- Untuk **server lokal**, akses:  
-  - `http://localhost/CMS-WordPress/`  
-  - Jika menggunakan domain: `http://domain/`  
+
+- Untuk **server lokal**, akses:
+  ```bash 
+  - http://localhost/CMS-WordPress/`
+  - http://domain_tkj.com
+  - http://10.20.30.1
 - Untuk **hosting web**, akses domain yang digunakan.  
 - Ikuti wizard instalasi, masukkan informasi situs, dan buat akun admin.  
 
@@ -87,7 +90,7 @@ Proyek ini menggunakan lisensi **GPLv2 atau lebih baru**, sesuai dengan lisensi 
 
 ---
 
-## 📞 Kontak & Dukungan  
+## 📞 Kontak & Dukungan
 Jika Anda memiliki pertanyaan atau memerlukan bantuan lebih lanjut, silakan hubungi:  
 
 📧 **Email**: [davidzon.juansa16@smk.belajar.id](mailto:davidzon.juansa16@smk.belajar.id)  
